@@ -28,5 +28,7 @@ Global_Sales: The total sales of the game globally.
 
 The data provides insights into the sales of video games across different platforms, regions, and genres. It can be used to analyze the popularity of certain games and platforms, as well as to identify trends in the video game industry.
 
+The data cleaning was done with Python and the data visualization was done with Power BI. The number of unique and missing values for each column was found using Python.
+
 Conclusion
-This readme provides important information about the video game sales data, which can be used to understand the popularity of games and make informed decisions about the video game industry.
+This readme provides important information about the video game sales data, including the columns, data cleaning and visualization tools used, and the analysis of unique and missing values. This information can be used to understand the popularity of games and make informed decisions about the video game industry.
